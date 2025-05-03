@@ -1,0 +1,543 @@
+[Sat Apr 19 17:27:26 2025
+] [2025-04-19 17:27:26] Spoofing Alert! IP: 104.17.208.240 | TTL: 53 (Expected: 64)
+[Sat Apr 19 17:27:26 2025
+] [2025-04-19 17:27:26] Spoofing Alert! IP: 130.14.29.110 | TTL: 40 (Expected: 64)
+[Sat Apr 19 17:27:26 2025
+] [2025-04-19 17:27:26] Spoofing Alert! IP: 130.14.29.109 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:31:18 2025
+] [2025-04-19 17:31:18] Spoofing Alert! IP: 34.107.243.93 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:35:34 2025
+] [2025-04-19 17:35:34] Spoofing Alert! IP: 34.149.100.209 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:36:04 2025
+] [2025-04-19 17:36:04] Spoofing Alert! IP: 34.49.51.44 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:36:04 2025
+] [2025-04-19 17:36:04] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:51 2025
+] [2025-04-19 17:43:51] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:51 2025
+] [2025-04-19 17:43:51] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:51 2025
+] [2025-04-19 17:43:51] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:51 2025
+] [2025-04-19 17:43:51] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:51 2025
+] [2025-04-19 17:43:51] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:52 2025
+] [2025-04-19 17:43:52] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 42 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:53 2025
+] [2025-04-19 17:43:53] Spoofing Alert! IP: 130.14.29.110 | TTL: 43 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:54 2025
+] [2025-04-19 17:43:54] Spoofing Alert! IP: 142.250.205.138 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.196.66 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:55 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:55] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.182.131 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:56 2025
+] [2025-04-19 17:43:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:43:58 2025
+] [2025-04-19 17:43:58] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:56 2025
+] [2025-04-19 17:44:56] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:57 2025
+] [2025-04-19 17:44:57] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:44:57 2025
+] [2025-04-19 17:44:57] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:44:57 2025
+] [2025-04-19 17:44:57] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:44:57 2025
+] [2025-04-19 17:44:57] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.251.221.163 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 34.120.208.123 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.195.145 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:47 2025
+] [2025-04-19 17:46:47] Spoofing Alert! IP: 142.250.196.54 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:48 2025
+] [2025-04-19 17:46:48] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:48 2025
+] [2025-04-19 17:46:48] Spoofing Alert! IP: 142.250.195.198 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:48 2025
+] [2025-04-19 17:46:48] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:46:48 2025
+] [2025-04-19 17:46:48] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:46:48 2025
+] [2025-04-19 17:46:48] Spoofing Alert! IP: 142.250.196.10 | TTL: 119 (Expected: 64)
+[Sat Apr 19 17:46:57 2025
+] [2025-04-19 17:46:57] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:57 2025
+] [2025-04-19 17:46:57] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:57 2025
+] [2025-04-19 17:46:57] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:46:57 2025
+] [2025-04-19 17:46:57] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:47:56 2025
+] [2025-04-19 17:47:56] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:47:56 2025
+] [2025-04-19 17:47:56] Spoofing Alert! IP: 142.250.205.130 | TTL: 120 (Expected: 64)
+[Sat Apr 19 17:55:23 2025
+] [2025-04-19 17:55:23] Spoofing Alert! IP: 1.2.3.4 | TTL: 20 (Expected: 64) | IP ID: 35308
+[Sat Apr 19 17:55:24 2025
+] [2025-04-19 17:55:24] Spoofing Alert! IP: 1.2.3.4 | TTL: 20 (Expected: 64) | IP ID: 50689
+[Sat Apr 19 17:55:25 2025
+] [2025-04-19 17:55:25] Spoofing Alert! IP: 1.2.3.4 | TTL: 20 (Expected: 64) | IP ID: 36477
+[Sat Apr 19 17:55:26 2025
+] [2025-04-19 17:55:26] Spoofing Alert! IP: 1.2.3.4 | TTL: 20 (Expected: 64) | IP ID: 62978
+[Sat Apr 19 17:55:27 2025
+] [2025-04-19 17:55:27] Spoofing Alert! IP: 1.2.3.4 | TTL: 20 (Expected: 64) | IP ID: 56016
+[Sat Apr 19 17:56:19 2025
+] [2025-04-19 17:56:19] Spoofing Alert! IP: 34.107.243.93 | TTL: 120 (Expected: 64) | IP ID: 7522
+[Sat Apr 19 17:56:19 2025
+] [2025-04-19 17:56:19] Spoofing Alert! IP: 34.107.243.93 | TTL: 120 (Expected: 64) | IP ID: 7523
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 0
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39949
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39950
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39951
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39952
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39953
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39954
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39955
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39956
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39957
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39958
+[2025-04-19 18:47:38] [2025-04-19 18:47:38] SPOOFED PACKET! 34.120.208.123 | TTL: 120 (Expected: 64) | IP ID: 39959
+[2025-04-19 19:24:28] Connection from: 127.0.0.1:49940
+[2025-04-19 19:29:15] [2025-04-19 19:29:15] SPOOFED PACKET! 91.189.91.98 | TTL: 58 (Expected: 64) | IP ID: 0
+[2025-04-19 19:32:01] Connection from: 127.0.0.1:51734
+[2025-04-19 19:32:09] [2025-04-19 19:32:09] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 60821
+[2025-04-19 19:32:10] [2025-04-19 19:32:10] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 16900
+[2025-04-19 19:32:11] [2025-04-19 19:32:11] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 22947
+[2025-04-19 19:32:12] [2025-04-19 19:32:12] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 48615
+[2025-04-19 19:32:13] [2025-04-19 19:32:13] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 57402
+[2025-04-19 19:34:15] [2025-04-19 19:34:15] SPOOFED PACKET! 91.189.91.49 | TTL: 58 (Expected: 64) | IP ID: 0
+[2025-04-19 20:05:04] Connection from: 127.0.0.1:39088
+[2025-04-19 20:09:17] Connection from: 127.0.0.1:42466
+[2025-04-19 20:21:56] Connection from: 127.0.0.1:49692
+[2025-04-19 20:25:50] Connection from: 127.0.0.1:41594
+[2025-04-20 19:05:37] Connection from: 127.0.0.1:42282
+[2025-04-20 19:11:37] Connection from: 127.0.0.1:35832
+[2025-04-20 19:18:15] Connection from: 127.0.0.1:57736
+[2025-04-20 19:19:35] Connection from: 127.0.0.1:54182
+[2025-04-20 19:35:25] Connection from: 127.0.0.1:40490
+[2025-04-20 20:07:47] Connection from: 127.0.0.1:49116
+[2025-04-20 20:15:10] Connection from: 127.0.0.1:50588
+[2025-04-20 20:16:30] Connection from: 127.0.0.1:39154
+[2025-04-20 20:16:33] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-20 20:19:29] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-21 10:04:37] Connection from: 127.0.0.1:39470
+[2025-04-21 10:04:47] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-21 10:09:08] Connection from: 127.0.0.1:45418
+[2025-04-21 10:09:09] [2025-04-21 10:09:09] SPOOFED PACKET! 185.125.188.58 | TTL: 50 (Expected: 64) | IP ID: 3515
+[2025-04-21 10:09:16] [2025-04-21 10:09:16] SPOOFED PACKET! 185.125.188.58 | TTL: 50 (Expected: 64) | IP ID: 0
+[2025-04-21 10:09:19] [2025-04-21 10:09:19] SPOOFED PACKET! 185.125.188.58 | TTL: 50 (Expected: 64) | IP ID: 50031
+[2025-04-21 10:09:26] [2025-04-21 10:09:26] SPOOFED PACKET! 91.189.91.96 | TTL: 49 (Expected: 64) | IP ID: 59311
+[2025-04-21 10:09:43] [2025-04-21 10:09:43] SPOOFED PACKET! 185.125.188.59 | TTL: 50 (Expected: 64) | IP ID: 0
+[2025-04-21 10:09:59] [2025-04-21 10:09:59] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 48370
+[2025-04-21 10:10:00] [2025-04-21 10:10:00] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 62987
+[2025-04-21 10:10:01] [2025-04-21 10:10:01] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 56560
+[2025-04-21 10:10:02] [2025-04-21 10:10:02] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 62121
+[2025-04-21 10:10:03] [2025-04-21 10:10:03] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 56230
+[2025-04-21 10:20:17] Connection from: 127.0.0.1:51076
+[2025-04-21 10:22:11] Connection from: 127.0.0.1:34604
+[2025-04-21 10:22:18] Connection from: 127.0.0.1:54098
+[2025-04-21 10:25:21] Connection from: 127.0.0.1:57984
+[2025-04-21 10:27:15] Connection from: 127.0.0.1:46264
+[2025-04-21 11:09:05] Connection from: 127.0.0.1:54120
+[2025-04-21 11:09:27] [2025-04-21 11:09:27] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 33044
+[2025-04-21 11:09:28] [2025-04-21 11:09:28] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 21617
+[2025-04-21 11:09:29] [2025-04-21 11:09:29] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 8342
+[2025-04-21 11:09:30] [2025-04-21 11:09:30] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 12470
+[2025-04-21 11:09:31] [2025-04-21 11:09:31] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 16554
+[2025-04-21 11:10:05] Connection from: 127.0.0.1:44238
+[2025-04-21 11:10:24] Connection from: 127.0.0.1:46230
+[2025-04-21 11:10:42] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-21 11:12:25] Connection from: 127.0.0.1:48928
+[2025-04-21 11:12:29] Connection from: 127.0.0.1:49264
+[2025-04-21 11:12:35] Connection from: 127.0.0.1:42628
+[2025-04-21 11:13:01] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-21 11:13:13] Connection from: 127.0.0.1:40328
+[2025-04-21 11:13:18] Connection from: 127.0.0.1:59372
+[2025-04-21 11:26:48] Connection from: 127.0.0.1:46988
+[2025-04-21 11:26:51] Connection from: 127.0.0.1:47000
+[2025-04-21 11:27:11] [ALERT] UDP flood detected from 192.168.64.1
+
+[2025-04-21 11:29:23] Connection from: 127.0.0.1:40946
+[2025-04-21 11:29:26] Connection from: 127.0.0.1:46522
+[2025-04-21 11:29:36] [2025-04-21 11:29:36] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 32913
+[2025-04-21 11:29:37] [2025-04-21 11:29:37] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 40288
+[2025-04-21 11:29:38] [2025-04-21 11:29:38] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 49317
+[2025-04-21 11:29:39] [2025-04-21 11:29:39] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 60668
+[2025-04-21 11:29:40] [2025-04-21 11:29:40] SPOOFED PACKET! 192.168.64.16 | TTL: 64 (Expected: 128) | IP ID: 30676
+[2025-04-21 17:10:40] Connection from: 127.0.0.1:60366

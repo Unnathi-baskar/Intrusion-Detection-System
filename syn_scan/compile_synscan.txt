@@ -1,0 +1,3 @@
+gcc -o syn_scan_detect syn_scan_detect.c -lpcap -lssl -lcrypto -pthread
+
+sudo ./syn_scan_detect ens160 192.168.1.5 syn_detect.crt syn_detect.key 9443

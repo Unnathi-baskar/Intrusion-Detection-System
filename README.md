@@ -1,2 +1,2 @@
 # Intrusion-Detection-System
-IDS using raw sockets ( C )
+IDS using raw sockets ( using C )
